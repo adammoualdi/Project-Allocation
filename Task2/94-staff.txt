@@ -1,0 +1,9 @@
+staff1 19
+staff2 6
+staff3 8
+staff4 12
+staff5 15
+staff6 9
+staff7 13
+staff8 5
+staff9 10
